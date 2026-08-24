@@ -44,15 +44,11 @@ It's to get better at:
 ## Connect
 
 * **GitHub:** You're already here :)
-* **LinkedIn:** [Add your LinkedIn]
-* **X:** [Add your X]
+* **LinkedIn:** [[LinkedIn]](https://www.linkedin.com/in/kirtiman-patel/)
+* **X:** [[X]](https://x.com/fizzycoding)
 
 ---
 
 ### Currently learning
 
 `React Native` `TypeScript` `Backend Development` `System Design` `CS Fundamentals`
-
-### Philosophy
-
-**Build more. Ship more. Learn from what breaks.**
