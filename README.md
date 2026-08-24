@@ -2,7 +2,7 @@
 
 I'm a BCA graduate and developer from India, focused on **building and shipping real products**.
 
-I primarily work with **JavaScript / TypeScript, React, React Native, Next.js, Node.js, and Firebase**. I enjoy turning ideas into working apps — especially small utilities, SaaS products, and mobile applications.
+I primarily work with **JavaScript / TypeScript, React, React Native, Next.js, Node.js, and Firebase**. I enjoy turning ideas into working apps especially small utilities, SaaS products, and mobile applications.
 
 Currently, I'm focused on:
 
