@@ -1,4 +1,4 @@
-# Hey, I'm Kirito 👋
+# Hey, I'm Kirtiman Patel 👋
 
 I'm a BCA graduate and developer from India, focused on **building and shipping real products**.
 
